@@ -1,0 +1,22 @@
+{
+    "name": "@sinemacula/foundation-mobile",
+    "version": "0.0.0",
+    "private": true,
+    "description": "React Native kernel over @sinemacula/foundation. Not built yet - a type-check skeleton that validates the base surface as it is extracted.",
+    "license": "Apache-2.0",
+    "author": "Ben Carey <bdmc@sinemacula.co.uk>",
+    "type": "module",
+    "engines": {
+        "node": ">=22"
+    },
+    "scripts": {
+        "typecheck": "tsc --noEmit"
+    },
+    "dependencies": {
+        "@sinemacula/foundation": "*"
+    },
+    "devDependencies": {
+        "@types/node": "^25.9.3",
+        "typescript": "^6.0.3"
+    }
+}
