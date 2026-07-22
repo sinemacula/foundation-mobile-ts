@@ -16,6 +16,7 @@
         "@sinemacula/foundation": "file:../foundation-ts"
     },
     "devDependencies": {
+        "@sinemacula/coding-standards": "^1.17.0",
         "@types/node": "^25.9.3",
         "typescript": "^6.0.3"
     }
