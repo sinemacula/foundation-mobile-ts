@@ -13,7 +13,7 @@
         "typecheck": "tsc --noEmit"
     },
     "dependencies": {
-        "@sinemacula/foundation": "*"
+        "@sinemacula/foundation": "file:../foundation-ts"
     },
     "devDependencies": {
         "@types/node": "^25.9.3",
